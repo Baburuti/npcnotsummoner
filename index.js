@@ -175,7 +175,7 @@ module.exports = function npcsummoner(script) {
 			"value": 609
 		},
 		{
-			"tname": "Specialty Store -sp",
+			"tname": "Specialty Store - sp",
 			"name": "sp",
 			"type": 9,
 			"npcId": sp_id,
