@@ -8,7 +8,7 @@
 
 # Uso
 
-Comando | Descripción
+Commands | Description
 | ------------- | ------------- | 
 | `sum` / `s` |  |
 
