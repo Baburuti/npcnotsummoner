@@ -133,56 +133,56 @@ module.exports = function npcsummoner(script) {
 	
 	let summons = [
 		{
-			"tname": "Bank",
+			"tname": "Bank - bank",
 			"name": "bank",
 			"type": 26,
 			"npcId": 0,
 			"value": 1
 		},
 		{
-			"tname": "Guild Bank",
+			"tname": "Guild Bank - gbank",
 			"name": "gbank",
 			"type": 26,
 			"npcId": 0,
 			"value": 3
 		},
 		{
-			"tname": "Pet Bank",
+			"tname": "Pet Bank - petbank",
 			"name": "petbank",
 			"type": 26,
 			"npcId": 0,
 			"value": 9
 		},
 		{
-			"tname": "Wardrobe",
+			"tname": "Wardrobe - wardrobe",
 			"name": "wardrobe",
 			"type": 26,
 			"npcId": 0,
 			"value": 12
 		},
 		{
-			"tname": "Merchant",
+			"tname": "Merchant - merchant",
 			"name": "merchant",
 			"type": 9,
 			"npcId": merchant_id,
 			"value": 70310
 		},		
 		{
-			"tname": "Vanguard Initiative",
+			"tname": "Vanguard Initiative - vg",
 			"name": "vg",
 			"type": 49,
 			"npcId": vg_id,
 			"value": 609
 		},
 		{
-			"tname": "Specialty Store",
+			"tname": "Specialty Store -sp",
 			"name": "sp",
 			"type": 9,
 			"npcId": sp_id,
 			"value": 250
 		},
 		{
-			"tname": "Trade Broker",
+			"tname": "Trade Broker - broker",
 			"name": "broker",
 		},
 		{
@@ -220,7 +220,7 @@ module.exports = function npcsummoner(script) {
         if (arg) {
 			const summon = getSum(arg);
             if (!summon) {
-                script.command.message(`Argumento no válido`);
+                script.command.message(`Invalid argument`);
                 return;
             }
 			if(summon && summon.name!="broker") {
