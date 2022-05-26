@@ -1,21 +1,19 @@
-# Npc-Summoner
+# NpcNotSummoner
 ## __
 ------
 
-<p align="center"><img src="https://imgur.com/a/JqwG2Km"/>
+<p align="center"><img src="https://i.imgur.com/uVSjl0q.png"/>
 
 ------
 
-# Uso
+# Usage
 
-Commands | Description
-| ------------- | ------------- | 
+Commands |
+| ------------- |
 | `sum` / `s` |  |
 
 Teleport to HW every new patch to update NPC IDs>
 
 ------
-
- [https://github.com/salchy-tera/tera-npc-summoner]  (https://github.com/salchy-tera/tera-npc-summoner)
 
 </details>
