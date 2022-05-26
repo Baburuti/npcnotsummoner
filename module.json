@@ -4,7 +4,7 @@
     "disableAutoUpdate": true,
     "disabled": false,
     "donationUrl": "",
-    "name": "npcsummoner",
+    "name": "npcnotsummoner",
     "options": {
         "niceName": "NPC-Summoner",
         "guiName": "<font color='#FDD017'>NPC-Summoner-ES</font>",
