@@ -1,13 +1,13 @@
 {
     "author": "<font color='#00FFFF'>NotBaburuti</font>",
-    "description": "NPC Summoner ()",
+    "description": "NPCNotSummoner ()",
     "disableAutoUpdate": true,
     "disabled": false,
     "donationUrl": "",
     "name": "npcnotsummoner",
     "options": {
-        "niceName": "NPC-Summoner",
-        "guiName": "<font color='#FDD017'>NPC-Summoner-ES</font>",
+        "niceName": "NPCNotSummoner",
+        "guiName": "<font color='#FDD017'>NPCNotSummoner</font>",
         "reloadable": true
     },
     "servers": ["https://raw.githubusercontent.com/Baburuti/npcnotsummoner/master/"],
